@@ -1,0 +1,1 @@
+Este proyecto esta destinado a una aplicación sencilla de escritorio para la asignatura de Ingeniería de Software por parte del grupo MyKitchen
